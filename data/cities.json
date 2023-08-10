@@ -34,7 +34,19 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": 9844319
+    },
+    {
+      "cityName": "Plaridel",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-08-10T14:15:21.777Z",
+      "notes": "dito kami nakatira ngayon",
+      "position": {
+        "lat": "14.87076188271795",
+        "lng": "120.85697986075805"
+      },
+      "id": 73930386
     }
   ]
 }
